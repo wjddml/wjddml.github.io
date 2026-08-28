@@ -1,0 +1,103 @@
+baseURL = 'https://USERNAME.github.io/'
+theme = 'PaperMod'
+defaultContentLanguage = 'ko'
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+enableEmoji = false
+summaryLength = 30
+
+[pagination]
+  pagerSize = 20
+
+[languages]
+  [languages.ko]
+    languageName = 'KO'
+    languageCode = 'ko-kr'
+    contentDir = 'content/ko'
+    weight = 1
+    title = 'spectatar'
+    [languages.ko.params]
+      description = '시스템 보안 · 리버싱 · Web3 감사 노트'
+    [[languages.ko.menu.main]]
+      name = 'Writeups'
+      url = '/writeups/'
+      weight = 10
+    [[languages.ko.menu.main]]
+      name = 'Notes'
+      url = '/notes/'
+      weight = 20
+    [[languages.ko.menu.main]]
+      name = 'Projects'
+      url = '/projects/'
+      weight = 30
+    [[languages.ko.menu.main]]
+      name = 'About'
+      url = '/about/'
+      weight = 40
+    [[languages.ko.menu.main]]
+      name = 'Search'
+      url = '/search/'
+      weight = 50
+
+  [languages.en]
+    languageName = 'EN'
+    languageCode = 'en-us'
+    contentDir = 'content/en'
+    weight = 2
+    title = 'spectatar'
+    [languages.en.params]
+      description = 'Systems security, reverse engineering, Web3 auditing'
+    [[languages.en.menu.main]]
+      name = 'Writeups'
+      url = '/writeups/'
+      weight = 10
+    [[languages.en.menu.main]]
+      name = 'Notes'
+      url = '/notes/'
+      weight = 20
+    [[languages.en.menu.main]]
+      name = 'About'
+      url = '/about/'
+      weight = 40
+
+[params]
+  defaultTheme = 'dark'
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowReadingTime = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  disableSpecial1stPost = true
+
+  [params.homeInfoParams]
+    Title = 'spectatar'
+    Content = '시스템 보안 · 리버싱 · Web3 감사'
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/wjddml'
+  [[params.socialIcons]]
+    name = 'other'
+    title = 'CTFtime'
+    url = 'https://ctftime.org/user/262951'
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    threshold = 0.3
+    minMatchCharLength = 2
+    keys = ['title', 'permalink', 'summary', 'content']
+
+[markup.highlight]
+  noClasses = false
+  lineNos = true
+  lineNumbersInTable = true
+  codeFences = true
+  guessSyntax = true
+  tabWidth = 4
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
