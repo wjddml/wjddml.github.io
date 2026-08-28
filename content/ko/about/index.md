@@ -20,7 +20,7 @@ Web3 감사를 목표로 합니다.
 
 ## 소속
 
-- **CTF Academy**
+- CTF Academy - https://ctf.asu.edu/education/ace-ctf-academy/
 
 ## 관심 분야
 
