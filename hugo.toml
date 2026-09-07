@@ -18,6 +18,9 @@ summaryLength = 30
     title = 'spectatar'
     [languages.ko.params]
       description = '시스템 보안 · 리버싱 · Web3 감사 노트'
+      [languages.ko.params.homeInfoParams]
+        Title = 'spectatar'
+        Content = '시스템 보안 · 리버싱 · Web3 감사'
     [[languages.ko.menu.main]]
       name = 'Writeups'
       url = '/writeups/'
@@ -47,6 +50,9 @@ summaryLength = 30
     title = 'spectatar'
     [languages.en.params]
       description = 'Systems security, reverse engineering, Web3 auditing'
+      [languages.en.params.homeInfoParams]
+        Title = 'spectatar'
+        Content = 'Systems security · Reverse engineering · Web3 auditing'
     [[languages.en.menu.main]]
       name = 'Writeups'
       url = '/writeups/'
@@ -56,9 +62,17 @@ summaryLength = 30
       url = '/notes/'
       weight = 20
     [[languages.en.menu.main]]
+      name = 'Projects'
+      url = '/projects/'
+      weight = 30
+    [[languages.en.menu.main]]
       name = 'About'
       url = '/about/'
       weight = 40
+    [[languages.en.menu.main]]
+      name = 'Search'
+      url = '/search/'
+      weight = 50
 
 [params]
   defaultTheme = 'dark'
@@ -72,10 +86,6 @@ summaryLength = 30
   ShowRssButtonInSectionTermList = true
   disableSpecial1stPost = true
 
-  [params.homeInfoParams]
-    Title = 'spectatar'
-    Content = '시스템 보안 · 리버싱 · Web3 감사'
-
   [[params.socialIcons]]
     name = 'github'
     url = 'https://github.com/wjddml'
@@ -83,6 +93,9 @@ summaryLength = 30
     name = 'other'
     title = 'CTFtime'
     url = 'https://ctftime.org/user/262951'
+  [[params.socialIcons]]
+    name = 'email'
+    url = 'mailto:jchan3214@gmail.com'
 
   [params.fuseOpts]
     isCaseSensitive = false

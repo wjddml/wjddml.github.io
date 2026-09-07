@@ -1,26 +1,20 @@
 ---
 title: "About"
 layout: "single"
-url: "/about/"
 summary: "about"
+translationKey: "about"
 ShowToc: false
 ShowBreadCrumbs: false
 ---
 
 ## spectatar
 
-시스템 보안과 리버스 엔지니어링을 다룹니다.\
-바이너리 익스플로잇, 커널 보안, 사이드 채널을 주로 다루고,\
-Web3 감사를 목표로 합니다.
+#
+**So we beat on, boats against the current,  borne back ceaselessly into the past.**
+#
 
-## Links
-
-- GitHub — https://github.com/wjddml
-- CTFtime — https://ctftime.org/user/262951
-
-## 소속
-
-- CTF Academy
+## 활동
+pwn.college · CTF Academy
 
 ## 관심 분야
 
@@ -28,6 +22,8 @@ Web3 감사를 목표로 합니다.
 - 마이크로아키텍처 사이드 채널
 - 리버스 엔지니어링 (커스텀 VM, 난독화)
 - 프로그래밍 언어 이론 · 정형 검증
+- 심볼릭 실행 · 퍼징
+- 가상머신 · 하이퍼바이저
 
 ## 지향
 

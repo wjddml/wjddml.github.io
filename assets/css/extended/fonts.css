@@ -1,0 +1,21 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.css');
+
+:root {
+  --font-ko: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
+
+body,
+.post-content,
+.post-title,
+.post-description,
+.entry-header h2,
+.entry-content,
+.first-entry .entry-header h1 {
+  font-family: var(--font-ko);
+}
+
+code, pre, kbd, samp,
+.post-content code,
+.post-content pre code {
+  font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace;
+}
