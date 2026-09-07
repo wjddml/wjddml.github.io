@@ -2,20 +2,18 @@
 
 :root {
   --font-ko: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace;
 }
 
-body,
-.post-content,
-.post-title,
-.post-description,
-.entry-header h2,
-.entry-content,
-.first-entry .entry-header h1 {
+body, button, input, textarea, select,
+.logo a, .menu a, .post-title, .post-description,
+.post-content, .entry-header h2, .entry-content,
+.first-entry .entry-header h1, .footer {
   font-family: var(--font-ko);
 }
 
 code, pre, kbd, samp,
-.post-content code,
-.post-content pre code {
-  font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace;
+.post-content code, .post-content pre code,
+.highlight, .chroma {
+  font-family: var(--font-mono);
 }

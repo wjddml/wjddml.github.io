@@ -1,4 +1,4 @@
-baseURL = 'https://USERNAME.github.io/'
+baseURL = 'https://wjddml.github.io/'
 theme = 'PaperMod'
 defaultContentLanguage = 'ko'
 defaultContentLanguageInSubdir = false
@@ -83,7 +83,7 @@ summaryLength = 30
   ShowPostNavLinks = true
   ShowReadingTime = false
   ShowWordCount = false
-  ShowRssButtonInSectionTermList = true
+  ShowRssButtonInSectionTermList = false
   disableSpecial1stPost = true
 
   [[params.socialIcons]]
