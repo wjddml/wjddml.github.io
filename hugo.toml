@@ -104,6 +104,9 @@ summaryLength = 30
     minMatchCharLength = 2
     keys = ['title', 'permalink', 'summary', 'content']
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [markup.highlight]
   noClasses = false
   lineNos = true

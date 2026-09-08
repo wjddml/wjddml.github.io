@@ -9,11 +9,16 @@ ShowBreadCrumbs: false
 
 ## spectatar
 
-#
+<div style="text-align: center; margin: 2.5rem 0; max-width: 34rem; margin-inline: auto; line-height: 1.9;">
 
-**So we beat on, boats against the current, borne back ceaselessly into the past.**
+**IT ELUDED US THEN, BUT THAT'S NO MATTER—<br>
+TOMORROW WE WILL RUN FASTER.<br>
+STRETCH OUT OUR ARMS FARTHER...<br>
+AND ONE FINE MORNING——<br>
+SO WE BEAT ON, BOATS AGAINST THE CURRENT,<br>
+BORNE BACK CEASELESSLY INTO THE PAST.**
 
-#
+</div>
 
 ## Activity
 
