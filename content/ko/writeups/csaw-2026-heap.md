@@ -1,5 +1,5 @@
 ---
-title: "CSAW CTF 2026 Quals — glibc 힙 pwn 3제"
+title: "CSAW CTF 2026 Quals — glibc 버전이 바뀌면 달라지는 것들"
 date: 2026-10-14
 tags: ["pwn", "heap", "uaf", "glibc", "tcache"]
 categories: ["CSAW CTF 2026 Quals"]

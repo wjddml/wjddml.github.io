@@ -1,5 +1,5 @@
 ---
-title: "CSAW CTF 2026 Quals — Three glibc Heap Challenges"
+title: "CSAW CTF 2026 Quals — What Changes Between glibc Versions"
 date: 2026-10-14
 tags: ["pwn", "heap", "uaf", "glibc", "tcache"]
 categories: ["CSAW CTF 2026 Quals"]
