@@ -22,7 +22,7 @@ BORNE BACK CEASELESSLY INTO THE PAST.**
 
 ## Activity
 
-pwn.college · CTF Academy · VOLT
+[pwn.college](https://pwn.college/hacker/130694) · CTF Academy · VOLT
 
 ## Interests
 

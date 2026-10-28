@@ -21,7 +21,7 @@ BORNE BACK CEASELESSLY INTO THE PAST.**
 </div>
 
 ## 활동
-pwn.college · CTF Academy · VOLT
+[pwn.college](https://pwn.college/hacker/130694) · CTF Academy · VOLT
 
 ## 관심 분야
 
