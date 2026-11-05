@@ -20,7 +20,6 @@ summaryLength = 30
       description = '시스템 보안 · 리버싱 · Web3 감사 노트'
       [languages.ko.params.homeInfoParams]
         Title = 'spectatar'
-        Content = '시스템 보안 · 리버싱 · Web3 감사'
     [[languages.ko.menu.main]]
       name = 'Writeups'
       url = '/writeups/'
@@ -52,7 +51,6 @@ summaryLength = 30
       description = 'Systems security, reverse engineering, Web3 auditing'
       [languages.en.params.homeInfoParams]
         Title = 'spectatar'
-        Content = 'Systems security · Reverse engineering · Web3 auditing'
     [[languages.en.menu.main]]
       name = 'Writeups'
       url = '/writeups/'
