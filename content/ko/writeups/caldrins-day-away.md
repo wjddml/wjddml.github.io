@@ -1,6 +1,6 @@
 ---
 title: "Caldrin's Day Away — 오라클이 잔고를 그대로 반환할 때"
-date: 2026-10-28
+date: 2026-11-24
 tags: ["blockchain", "defi", "solidity", "flash-loan", "oracle"]
 categories: ["Cyber Apocalypse 2026"]
 summary: "플래시 론으로 AMM 잔고를 부풀리고, 그 잔고를 자산 평가액으로 베끼는 금고에서 지분을 청구한다. 화이트리스트가 질의는 고정했지만 답은 고정하지 못했다."

@@ -1,6 +1,6 @@
 ---
 title: "Caldrin's Day Away — When the Oracle Returns a Reserve Verbatim"
-date: 2026-10-28
+date: 2026-11-24
 tags: ["blockchain", "defi", "solidity", "flash-loan", "oracle"]
 categories: ["Cyber Apocalypse 2026"]
 summary: "Inflate an AMM reserve with a flash loan, then redeem a claim from a vault that copies that reserve as its own asset valuation. The whitelist fixed which query could be asked, not whether the answer could be trusted."
